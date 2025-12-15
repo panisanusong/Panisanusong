@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Cream (Panisa Nusong)
 
-<!--
-**panisanusong/Panisanusong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Digital Science and Technology Student  
+🏫 Kasetsart University Sriracha Campus  
+💻 Interested in DevOps, Backend, Database Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am a motivated IT student with strong interests in  
+software development, DevOps practices, and database systems.  
+I enjoy building real-world projects and continuously learning  
+new technologies.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- Java
+- JavaScript
+- SQL
+- PHP
+
+### Web & Frameworks
+- React
+- Node.js
+- HTML / CSS
+- Tailwind CSS
+
+### Database
+- MySQL
+- SQL Server
+- Microsoft Access
+
+### DevOps & Tools
+- Git & GitHub
+- Docker
+- GitHub Actions (CI/CD)
+- Linux (Basic)
+- AWS (Fundamental)
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 StudyMind – AI Chatbot for Student Well-being
+- Web-based chatbot to reduce stress and improve focus
+- Features: Mood tracking, Pomodoro timer, Chatbot
+- Tech Stack: React, Tailwind, AI API  
+🔗 Repository: https://github.com/yourusername/studymind
+
+---
+
+### 🔹 Stock Management System
+- Inventory management system with CRUD & PDF reports
+- Supports Thai / English language
+- Tech Stack: PHP, MySQL  
+🔗 Repository: [https://github.com/yourusername/stock-system](https://github.com/panisanusong/Panisanusong/edit/main/README.md)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+---
+
+## 📫 Contact
+- Email: your-email@email.com
+- GitHub: https://github.com/panisanusong
