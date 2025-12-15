@@ -57,12 +57,12 @@ new technologies.
 - Inventory management system with CRUD & PDF reports
 - Supports Thai / English language
 - Tech Stack: PHP, MySQL  
-🔗 Repository: [https://github.com/yourusername/stock-system](https://github.com/panisanusong/Panisanusong/edit/main/README.md)
+🔗 Repository: (https://github.com/panisanusong/Panisanusong/edit/main/README.md)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github.com/panisanusong/Panisanusong/main/README.md)
 
 ---
 
