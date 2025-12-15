@@ -49,7 +49,7 @@ new technologies.
 - Web-based chatbot to reduce stress and improve focus
 - Features: Mood tracking, Pomodoro timer, Chatbot
 - Tech Stack: React, Tailwind, AI API  
-🔗 Repository: https://github.com/yourusername/studymind
+🔗 Repository: https://github.com/panisanusong/Panisanusong/edit/main/README.md
 
 ---
 
